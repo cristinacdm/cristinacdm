@@ -10,7 +10,7 @@ Hi, my name is _Cristina_ and I'm currently a freelance **artist**  from **Brace
 I'm also **learning full-stack development** by tacking part on a Bootcamp from *Undefined Academy*. New to the developer world but eager to learn more, so let's enjoy the ride and as they say... *journey before the destination*.  
 
    <p align="left">
-<a href="https://github.com/ForrestKnight?tab=followers">
+<a href="https://github.com/cristinacdm?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cristinacdm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/cristinacdm?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cristinacdm?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
