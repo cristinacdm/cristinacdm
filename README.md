@@ -33,7 +33,7 @@ I'm also **learning full-stack development** by tacking part on a Bootcamp from 
 
 #
 
-### Currently working on
+### Currently studying
 
 [![bookmark.style](https://svg.bookmark.style/api?url=https://undefined.academy/&mode=light&style=horizontal)](https://undefined.academy/)
 #
