@@ -7,7 +7,7 @@ _`Artist at heart, developer on the making.`_
 
 
 Hi, my name is _Cristina_ and I'm currently a freelance **artist**  from **Bracelona, Spain**.   
-I'm also **learning full-stack development** by tacking part on a Bootcamp from *Undefined Academy*. New to the developer world but eager to learn more, so let's enjoy the ride and as they say... *journey before destination*.  
+I'm also **learning full-stack development** by taking part on a Bootcamp from *Undefined Academy*. New to the developer world but eager to learn more, so let's enjoy the ride and as they say... *journey before destination*.  
 
    <p align="left">
 <a href="https://github.com/cristinacdm?tab=followers">
